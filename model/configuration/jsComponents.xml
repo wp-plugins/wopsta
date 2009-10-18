@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jscomponents>
+    <component id="1" dashboard="true">
+        <name>WOPSTA.panels.gdpanel</name>	
+		<intjs>
+            WOPSTA.panels.gdpanel.render(\'wopsta_last_visitors\');
+        </intjs>
+		<title>
+		  Last Visitors (no Bots / Spiders)
+		</title>	
+        <jsfile>
+            ext.visitors.js
+        </jsfile>
+        <intmarkup>
+            &lt;div id=\"wopsta_last_visitors\" style=\"margin: 2px 8px 0 3px;\"&gt;&lt;/div&gt;
+        </intmarkup>
+        <dependicies />
+       </component>
+    <component id="2" dashboard="false">
+        <name>WOPSTA.panels.visits_and_pageviews_panel</name>	
+		<title>
+		 Visits Pageviews</title>	
+		<intjs>
+            WOPSTA.panels.visits_and_pageviews_panel.render(\'wopsta_visits_and_pageviews\');
+        </intjs>
+        <jsfile>
+            ext.visits_and_pageviews.js
+        </jsfile>
+        <intmarkup>
+            &lt;div id=\"wopsta_visits_and_pageviews\" style=\"margin: 2px 8px 14px 3px;\"&gt;&lt;/div&gt;
+        </intmarkup>
+        <dependicies>
+            <filename/>
+        </dependicies>
+    </component>
+</jscomponents>
