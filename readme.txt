@@ -1,39 +1,17 @@
 === Plugin Name ===
-Contributors: XXX
-Donate link: XXX
+Contributors: noisyrabbit
+Donate link: n.a.
 Tags: stats, statistics, visits, visitors, pageview, pageviews, views, referrer, referrers, hits
 Requires at least: 2.71
 Tested up to: 2.71
-Stable Tag: XXX
+Stable tag: 0.0.2
 
-Wopsta is real time statistics plugin, using the advantages of the brand new Ext JS 3.0 library.
-
-
-== Dependencies & Requirements ==
-php 5 (oo)
-
-
+wopsta is real-time visitor statistics plugin, using the advantages of the Ext JS 3.0 library.
+This plug-in is currently under development and far away from being stable.
+Using it is not recommended.
 
 == Description ==
-XXX
 
-= Multilanguage =
-Wopsta is available in English and German.
-Translations into other languages are welcome. Please contact me.
-
-= What's new? =
-XXX
-
-== Installation ==
-XXX
-
-== Frequently Asked Questions ==
-
-= Where can I get help? =
-Please visit <a href="XXX">XXX<a/>.
-
-== Screenshots ==
-&middot; <a href="XXX">XXX</a><br>
-
-== Updates ==
-XXX
+wopsta is real-time visitor statistics plugin, using the advantages of the Ext JS 3.0 library.
+This plug-in is currently under development and far away from being stable.
+Using it is not recommended.
