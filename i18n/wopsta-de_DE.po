@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-05-13 15:22+1000\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Andre Kolell <andre.kolell@gmail.com>\n"
+"Last-Translator: Jan Stracke <jan@threehoursleep.net>\n"
 "Language-Team: Andre Kolell\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../admin/configuration.php:9
 msgid "Blog Title"
-msgstr ""
+msgstr "Blog Titel"
 
 #: ../admin/configuration.php:13
 msgid "Tagline"
@@ -60,29 +60,29 @@ msgstr ""
 
 #: ../admin/configuration.php:15
 msgid "In a few words, explain what this blog is about."
-msgstr ""
+msgstr "Beschreiben Sie das Thema dieses Blogs in einigen Stichworten."
 
 #: ../admin/configuration.php:18
 msgid "WordPress address (URL)"
-msgstr ""
+msgstr "WordPress Adresse (URL)"
 
 #: ../admin/configuration.php:22
 msgid "Blog address (URL)"
-msgstr ""
+msgstr "Blog Adresse (URL)"
 
 #: ../admin/configuration.php:24
 msgid "Enter the address here if you want your blog homepage <a href=\"http://codex.wordpress.org/Giving_WordPress_Its_Own_Directory\">to be different from the directory</a> you installed WordPress."
-msgstr ""
+msgstr "Tragen Sie hier die Adresse Ihres Blogs ein, wenn diese von <a href=\"http://codex.wordpress.org/Giving_WordPress_Its_Own_Directory\">dem Verzeichnis in dem Wordpress installiert ist abweichen soll</a>."
 
 #: ../admin/configuration.php:27
 msgid "E-mail address"
-msgstr ""
+msgstr "Email Adresse"
 
 #: ../admin/configuration.php:29
 msgid "This address is used for admin purposes, like new user notification."
-msgstr ""
+msgstr "Diese Adresse wird zu administrativen Zwecken verwendet, zum Beispiel Benachrichtungen über neue Benutzer."
 
 #: ../admin/configuration.php:45
 msgid "Save Changes"
-msgstr ""
+msgstr "Änderungen speichern"
 
